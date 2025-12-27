@@ -6,22 +6,22 @@
   "circle_size": 4,
   "hit_objects": [
     {
-      "x": 0,
+      "x": 1,
       "time": 246,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 722,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 1198,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 1674,
       "type": "note"
     },
@@ -31,7 +31,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 1912,
       "type": "note"
     },
@@ -56,7 +56,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 3222,
       "type": "note"
     },
@@ -66,12 +66,12 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 3460,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 3698,
       "type": "note"
     },
@@ -81,22 +81,22 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 4055,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 4531,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 5007,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 5484,
       "type": "note"
     },
@@ -106,7 +106,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 5722,
       "type": "note"
     },
@@ -131,7 +131,7 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 7031,
       "type": "note"
     },
@@ -141,37 +141,37 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 7269,
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 7507,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 7626,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 7865,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 8341,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 8817,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 9293,
       "type": "note"
     },
@@ -181,7 +181,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 9531,
       "type": "note"
     },
@@ -206,7 +206,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 10841,
       "type": "note"
     },
@@ -216,12 +216,12 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 11079,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 11317,
       "type": "note"
     },
@@ -231,22 +231,22 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 11674,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 12150,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 12626,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 13103,
       "type": "note"
     },
@@ -256,7 +256,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 13341,
       "type": "note"
     },
@@ -281,7 +281,7 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 14650,
       "type": "note"
     },
@@ -291,37 +291,37 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 14888,
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 15126,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 15245,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 15484,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 15960,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 16436,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 16912,
       "type": "note"
     },
@@ -331,7 +331,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 17150,
       "type": "note"
     },
@@ -356,7 +356,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 18460,
       "type": "note"
     },
@@ -366,12 +366,12 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 18698,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 18936,
       "type": "note"
     },
@@ -381,22 +381,22 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 19293,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 19769,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 20245,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 20722,
       "type": "note"
     },
@@ -406,7 +406,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 20960,
       "type": "note"
     },
@@ -431,7 +431,7 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 22269,
       "type": "note"
     },
@@ -441,37 +441,37 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 22507,
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 22745,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 22865,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 23103,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 23579,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 24055,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 24531,
       "type": "note"
     },
@@ -481,7 +481,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 24769,
       "type": "note"
     },
@@ -506,7 +506,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 26079,
       "type": "note"
     },
@@ -516,12 +516,12 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 26317,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 26555,
       "type": "note"
     },
@@ -531,22 +531,22 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 26912,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 27388,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 27865,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 28341,
       "type": "note"
     },
@@ -556,7 +556,7 @@
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 28579,
       "type": "note"
     },
@@ -581,7 +581,7 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 29888,
       "type": "note"
     },
@@ -591,17 +591,17 @@
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 30126,
       "type": "note"
     },
     {
-      "x": 2,
+      "x": 3,
       "time": 30365,
       "type": "note"
     },
     {
-      "x": 0,
+      "x": 1,
       "time": 30484,
       "type": "note"
     }
